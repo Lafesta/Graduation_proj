@@ -1,0 +1,15 @@
+2023-08-31 18:14:26,033 - root - INFO - Namespace(Ks='[5,10,15,20,25]', cf_batch_size=1024, cf_l2loss_lambda=1e-05, data_dir='datasets/', data_name='classical', embed_dim=64, evaluate_every=10, kg_batch_size=2048, kg_l2loss_lambda=1e-05, lr=0.0001, n_epoch=1000, pretrain_embedding_dir='datasets/pretrain/', pretrain_model_path='trained_model/CKE/classical/embed-dim64_relation-dim64_lr0.0001_pretrain0/model_epoch20.pth', print_every=100, relation_dim=64, save_dir='trained_model/CKE/classical/embed-dim64_relation-dim64_lr0.0001_pretrain2/', seed=2019, stopping_steps=10, test_batch_size=10000, use_pretrain=2)
+2023-08-31 18:14:26,602 - root - INFO - n_users:      57558
+2023-08-31 18:14:26,602 - root - INFO - n_items:      121
+2023-08-31 18:14:26,602 - root - INFO - n_entities:   919
+2023-08-31 18:14:26,602 - root - INFO - n_relations:  22
+2023-08-31 18:14:26,602 - root - INFO - n_cf_train:   186332
+2023-08-31 18:14:26,602 - root - INFO - n_cf_test:    15558
+2023-08-31 18:14:26,602 - root - INFO - n_kg_data:    6048
+2023-08-31 18:14:27,589 - root - INFO - CKE(
+  (user_embed): Embedding(57558, 64)
+  (item_embed): Embedding(121, 64)
+  (entity_embed): Embedding(919, 64)
+  (relation_embed): Embedding(22, 64)
+)
+2023-08-31 18:14:33,625 - root - INFO - KG & CF Training: Epoch 0001 Iter 0100 / 0182 | Time 0.1s | Iter Loss 0.4096 | Iter Mean Loss 0.4212

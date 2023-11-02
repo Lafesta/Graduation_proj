@@ -1,0 +1,13 @@
+org_id remap_id
+http://www.w3.org/ns/dcat#inseries 0
+http://purl.org/dc/terms/creator 1
+https://www.kw.ac.kr/k-terms/death 2
+http://www.w3.org/ns/dcat#last 3
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type 4
+https://www.kw.ac.kr/k-terms/movement 5
+http://www.w3.org/ns/dcat#prev 6
+http://www.w3.org/ns/dcat#theme 7
+http://purl.org/dc/terms/title 8
+https://www.kw.ac.kr/k-terms/ensemble 9
+http://www.w3.org/ns/dcat#first 10
+https://www.kw.ac.kr/k-terms/birth 11
