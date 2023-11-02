@@ -1,0 +1,98 @@
+
+[{
+    "id": null,
+    "table":"asset",
+    "column":"composition",
+    "class_id":"dcat:Resource",
+    "property_id":"dcterms:title",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"composer",
+    "class_id":"dcat:Resource",
+    "property_id":"dcterms:creator",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"movement",
+    "class_id":"dcat:Resource",
+    "property_id":"k-terms:movement",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"epoch",
+    "class_id":"dcat:Resource",
+    "property_id":"dcat:theme",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"ensemble",
+    "class_id":"dcat:Resource",
+    "property_id":"k-terms:ensemble",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"catalog",
+    "class_id":"dcat:Dataset",
+    "property_id":"dcat:inseries",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"first",
+    "class_id":"dcat:Resource",
+    "property_id":"dcat:first",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"last",
+    "class_id":"dcat:Resource",
+    "property_id":"dcat:last",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"asset",
+    "column":"prev",
+    "class_id":"dcat:Resource",
+    "property_id":"dcat:prev",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"composer",
+    "column":"epoch",
+    "class_id":"dcat:Resource",
+    "property_id":"dcat:theme",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"composer",
+    "column":"birth",
+    "class_id":"dcat:Resource",
+    "property_id":"k-terms:birth",
+    "issuer_id":"std_admin",
+    "issued": null
+},{
+    "id": null,
+    "table":"composer",
+    "column":"death",
+    "class_id":"dcat:Resource",
+    "property_id":"k-terms:death",
+    "issuer_id":"std_admin",
+    "issued": null
+}]
